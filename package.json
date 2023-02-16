@@ -1,0 +1,9 @@
+{
+  "name": "sorts-mill-goudy",
+  "version": "1.0.0",
+  "description": "A revival of Goudy Oldstyle and Italic",
+  "repository": "https://github.com/Billiam/sorts-mill-goudy.git",
+  "author": "Barry Schwartz <site-chieftain@crudfactory.com>,",
+  "license": "OFL-1.1",
+  "private": false
+}
